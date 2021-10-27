@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>YCDoctor.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>4A1293271F73C32BE8F0A024109F5915182EF9CC</string>
+				<key>dateExpires</key>
+				<string>2021/11/12</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4A1293271F73C32BE8F0A024109F5915182EF9CC</string>
+						<key>dateExpires</key>
+						<string>2021/11/12</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>AliThirdparty.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>38N2LV4ULW</string>
+						<key>name</key>
+						<string>shan He</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4A1293271F73C32BE8F0A024109F5915182EF9CC</string>
+						<key>dateExpires</key>
+						<string>2021/11/12</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>AliyunPlayerSDK.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>38N2LV4ULW</string>
+						<key>name</key>
+						<string>shan He</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4A1293271F73C32BE8F0A024109F5915182EF9CC</string>
+						<key>dateExpires</key>
+						<string>2021/11/12</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>AliyunVodPlayerSDK.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>38N2LV4ULW</string>
+						<key>name</key>
+						<string>shan He</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4A1293271F73C32BE8F0A024109F5915182EF9CC</string>
+						<key>dateExpires</key>
+						<string>2021/11/12</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>HelpDesk.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>38N2LV4ULW</string>
+						<key>name</key>
+						<string>shan He</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4A1293271F73C32BE8F0A024109F5915182EF9CC</string>
+						<key>dateExpires</key>
+						<string>2021/11/12</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Hyphenate.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>38N2LV4ULW</string>
+						<key>name</key>
+						<string>shan He</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4A1293271F73C32BE8F0A024109F5915182EF9CC</string>
+						<key>dateExpires</key>
+						<string>2021/11/12</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>YZBaseSDK.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>38N2LV4ULW</string>
+						<key>name</key>
+						<string>shan He</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4A1293271F73C32BE8F0A024109F5915182EF9CC</string>
+						<key>dateExpires</key>
+						<string>2021/11/12</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>YZSDKCore.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>38N2LV4ULW</string>
+						<key>name</key>
+						<string>shan He</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>38N2LV4ULW.com.yincheng.YCYK</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.associated-domains</key>
+				<array>
+					<string>applinks:yc.yixueks.com</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>38N2LV4ULW</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>YCDoctor.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>ce6c8e62-5037-4806-b10b-dbda8c990ad8</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.yincheng.YCYK</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>38N2LV4ULW</string>
+				<key>name</key>
+				<string>shan He</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
